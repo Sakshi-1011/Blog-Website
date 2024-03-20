@@ -157,7 +157,7 @@ a{
         grid-template-columns: repeat(4,1fr);
     }
 }
-@media(max-width:380px){
+@media(max-width:450px){
     .header-title{
         font-size: 2.5rem;
         font-weight: 500;
